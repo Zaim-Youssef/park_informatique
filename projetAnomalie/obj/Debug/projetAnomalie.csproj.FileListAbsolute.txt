@@ -1,0 +1,105 @@
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\ApplicationInsights.config
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\csc.exe
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\System.Collections.Immutable.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\System.Reflection.Metadata.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\vbc.exe
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\VBCSCompiler.exe
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\roslyn\VBCSCompiler.exe.config
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\projetAnomalie.dll.config
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\projetAnomalie.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\projetAnomalie.pdb
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.AI.Agent.Intercept.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.AI.DependencyCollector.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.AI.Web.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.AI.WindowsServer.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.ApplicationInsights.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.AI.DependencyCollector.xml
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.AI.Web.xml
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.AI.WindowsServer.xml
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.ApplicationInsights.xml
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.csproj.AssemblyReference.cache
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.csproj.CoreCompileInputs.cache
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.csproj.CopyComplete
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.dll
+C:\bd 8 10 projet equip\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.pdb
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\ApplicationInsights.config
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\csc.exe
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\System.Collections.Immutable.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\System.Reflection.Metadata.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\vbc.exe
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\VBCSCompiler.exe
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\roslyn\VBCSCompiler.exe.config
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\projetAnomalie.dll.config
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\projetAnomalie.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\projetAnomalie.pdb
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.AI.Agent.Intercept.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.AI.DependencyCollector.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.AI.Web.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.AI.WindowsServer.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.ApplicationInsights.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.AI.DependencyCollector.xml
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.AI.Web.xml
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.AI.WindowsServer.xml
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.ApplicationInsights.xml
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.csproj.AssemblyReference.cache
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.csproj.CoreCompileInputs.cache
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.csproj.CopyComplete
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.dll
+C:\bd 8 10 projet equip\part correctif 1\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.pdb
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\ApplicationInsights.config
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\csc.exe
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\System.Collections.Immutable.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\System.Reflection.Metadata.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\vbc.exe
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\VBCSCompiler.exe
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\roslyn\VBCSCompiler.exe.config
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\projetAnomalie.dll.config
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\projetAnomalie.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\projetAnomalie.pdb
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.AI.Agent.Intercept.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.AI.DependencyCollector.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.AI.Web.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.AI.WindowsServer.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.ApplicationInsights.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.AI.DependencyCollector.xml
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.AI.Web.xml
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.AI.WindowsServer.xml
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.ApplicationInsights.xml
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.dll
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.pdb
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.csproj.AssemblyReference.cache
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.csproj.CoreCompileInputs.cache
+C:\bd 8 10 projet equip\part correctif 1\db\projetAnomalie\projetAnomalie\obj\Debug\projetAnomalie.csproj.CopyComplete
